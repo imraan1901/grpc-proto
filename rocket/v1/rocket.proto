@@ -1,5 +1,5 @@
 syntax = "proto3";
-option go_package = "./rocket/v1/rocket";
+option go_package = "github.com/imraan1901/grpc-proto/rocket/v1/rocket";
 
 package rocket;
 
