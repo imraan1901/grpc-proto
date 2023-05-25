@@ -4,7 +4,7 @@
 // - protoc             v3.21.12
 // source: rocket/v1/rocket.proto
 
-package rocket
+package v1
 
 import (
 	context "context"
